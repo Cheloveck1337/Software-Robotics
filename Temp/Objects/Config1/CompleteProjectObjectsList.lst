@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="134030995665234716" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="134012855839275013"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="134012855839424607"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="134030995664785919" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="134012855850834111" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="134012855850774272"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="134012855850814171"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="134012855850824135"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="134012855855342062" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="134012855855302167"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="134012855855322114"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="134012855855332086"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="134012855859770226" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="134012855859740303"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="134012855859750282"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="134012855859770226"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="134012855864058761" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="134012855864028838"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="134012855864038817"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="134012855864048793"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\ANSIC.lby"
+    LogicalPath="Libraries.MotorCtrl"
+    Type="Library"
+    LastWriteTime="134030995593915341" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\Types.typ"
+    LogicalPath="Libraries.MotorCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="134030995593835573"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\Constants.var"
+    LogicalPath="Libraries.MotorCtrl.Constants.var"
+    Type="File"
+    LastWriteTime="134030995593845530"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\MotorCtrl.fun"
+    LogicalPath="Libraries.MotorCtrl.MotorCtrl.fun"
+    Type="File"
+    LastWriteTime="134037046772711481"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\FB_Motor.c"
+    LogicalPath="Libraries.MotorCtrl.FB_Motor.c"
+    Type="File"
+    LastWriteTime="134037046211631587"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\FB_Regulator.c"
+    LogicalPath="Libraries.MotorCtrl.FB_Regulator.c"
+    Type="File"
+    LastWriteTime="134043068876235264"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Libraries\MotorCtrl\FB_Integrator.c"
+    LogicalPath="Libraries.MotorCtrl.FB_Integrator.c"
+    Type="File"
+    LastWriteTime="134037045428694862"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="134030995665085111" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Program\Cyclic.c"
+    LogicalPath="Program.Cyclic.c"
+    Type="File"
+    LastWriteTime="134043066301859111"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Program\Init.c"
+    LogicalPath="Program.Init.c"
+    Type="File"
+    LastWriteTime="134043083537776282"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Program\Exit.c"
+    LogicalPath="Program.Exit.c"
+    Type="File"
+    LastWriteTime="134031037475509067"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="134030995665065167"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="134043066094034832"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="134012855889670303" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="134037063892642240"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="131865063240000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="134012855868127876" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="134033607833918008"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\Cpu.per"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="134012855867210334"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="134012855867220310"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="134012855867230282"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="134012855867499558" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="134012855867499558" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="134012855867529477" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="134012855867569376" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="134012855867958334" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="134012855867708998" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="134012855867679079"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="134012855867699026"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="134012855867928411" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="134012855867818705" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="134012855867788793" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="134012855867808736" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="134012855867868576" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="134012855867868576" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="134012855867898491" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="134012855867918439" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="134012855867948358" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="134012855867988254" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="134012855868028157" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="134012855868058069" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="134012855868087984" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="134012855868117908" />
+  <Object
+    Path="C:\Users\admin\Documents\Diego\diego_4_1\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="134033606127590376"
+    Private="false" />
+</Objects>
